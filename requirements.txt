@@ -1,0 +1,8 @@
+langchain
+langchain_groq
+python-dotenv
+ipykernel
+fastapi
+uvicorn
+langserve
+langchain_community
